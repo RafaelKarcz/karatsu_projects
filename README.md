@@ -3,7 +3,9 @@
 Welcome to my repository of Python practice tasks and little projects! Here, I've collected a series of small projects that I've worked on to help me learn and develop my Python skills.
 
 ## Getting Started
-To run any of the scripts in this repository, you'll need to have Python installed on your machine. You can download the latest version of Python from the official website: https://www.python.org/downloads/
+To run any of the scripts in this repository, you'll need to have Python installed on your machine. You can download the latest version of Python from the official website: https://www.python.org/downloads/ 
+
+Alternatively you can also give it a try with Google Colab https://colab.research.google.com/
 
 Once you have Python installed, simply clone this repository to your local machine and run the Python script of your choice from the command line. For example:
 
